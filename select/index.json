@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "相性×優勝ドロップス",
+  "base_artist": "Idios",
+  "createdAt": "2026-01-10T15:06:01.348603Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相性×優勝ドロップス",
+      "artist": "Idios",
+      "has_synced": false,
+      "path": "select/pl_01_相性×優勝ドロップス_Idios.txt"
+    }
+  ]
+}
